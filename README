@@ -1,0 +1,3 @@
+Machine Learning Project 3:  Due November 8th.
+In this project you will practice the basics of Machine Learning Classification by using k-means clustering and PCA on one dataset and a comparison of Random forests and kNN for the MNIST dataset.  You will continue the good practices already established for how to describe, evaluate, and write up a report on the classifier performance. 
+Datasets: The project will explore two datasets, the famous MNIST dataset of very small pictures of handwritten numbers, and an exploration of the Human Activity Recognition dataset. 
